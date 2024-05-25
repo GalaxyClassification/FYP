@@ -13,11 +13,11 @@ S2 = Multi-class spiral, 7 spiral sub-classifications\
 Blank, e.g: 'MataP3D_Model_2.6' = Multi-class, elliptical vs. spiral vs. lenticular
 
 The input file used for each model will be read in at the top of the script so if unsure \
-just check the script and download the correct input file from FYP-Files/All Input Files
+just check the script and download the correct input file from FYP/All Input Files
 
-The code for the ionisation type models are in: FYP-Files/Ionisation Type Models
-The code for the morphological type models are in: FYP-Files/Main Morphology Models
-Additional models created are in: FYP-Files/Extra Models
-Scripts for data processing and formatting are in: FYP-Files/Data processing-formatting
-Scripts for the analysis of the results from the models are in: FYP-Files/Analysis  
-Most functions from the scripts contained in FYP-Files/Analysis are already implemented into the model creation scripts 
+The code for the ionisation type models are in: FYP/Ionisation Type Models\
+The code for the morphological type models are in: FYP/Main Morphology Models\
+Additional models created are in: FYP/Extra Models\
+Scripts for data processing and formatting are in: FYP/Data processing-formatting\
+Scripts for the analysis of the results from the models are in: FYP/Analysis\  
+Most functions from the scripts contained in FYP/Analysis are already implemented into the model creation scripts 
