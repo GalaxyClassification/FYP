@@ -19,5 +19,5 @@ The code for the ionisation type models are in: FYP/Ionisation Type Models\
 The code for the morphological type models are in: FYP/Main Morphology Models\
 Additional models created are in: FYP/Extra Models\
 Scripts for data processing and formatting are in: FYP/Data processing-formatting\
-Scripts for the analysis of the results from the models are in: FYP/Analysis\  
+Scripts for the analysis of the results from the models are in: FYP/Analysis\
 Most functions from the scripts contained in FYP/Analysis are already implemented into the model creation scripts 
